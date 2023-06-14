@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381338938"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -WG -l -vewnhibq -FiE:\DKR9\DKR9\lib\x86_64-win64 -FuE:\DKR9\DKR9\ -FUE:\DKR9\DKR9\lib\x86_64-win64\ -FEE:\DKR9\DKR9\ -oE:\DKR9\DKR9\Zoo_DataBase.exe add.lfm"/>
+  <Complete Value="False"/>
+</CONFIG>
